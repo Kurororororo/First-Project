@@ -43,7 +43,7 @@
 
 .rectangle {
     position: absolute;
-    width: 352px;
+    width: 351px;
     height: 590px;
     background-image: linear-gradient(to right, #000000, #494848);
     top: 0%;
@@ -245,4 +245,5 @@ footer {
     display: flex;
     justify-content: center;
     gap: 10px;
+
 }
